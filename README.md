@@ -5,6 +5,4 @@
 3. Change github1 branch
 4. Change after clone
 5. fork
-6. fork2
-7. fork3
-8. Collaboration
+6. Changed 
